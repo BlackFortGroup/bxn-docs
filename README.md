@@ -5,6 +5,10 @@
 
 BXN is an EVM (Ethereum Virtual Machine)-based PoSA (Proof of Staked Authority) blockchain that incorporates its economy logic and functionality through a comprehensive set of smart contracts, akin to the Binance Smart Chain (BSC) architecture. It offers compatibility with the Ethereum ecosystem, allowing developers and users to interact with its network using the standard Ethereum API via RPC (Remote Procedure Call) endpoints. The network supports the deployment and operation of decentralized applications (DApps) and smart contracts, leveraging Vanilla Geth clients for node operation.
 
+### CertiK Audit
+
+CertiK audit available on dedicated webpage: https://skynet.certik.com/projects/blackfort-exchange-network
+
 ## Getting Started
 
 This document serves as a starting point for new users to the BNB Chain ecosystem. General knowledge of cryptocurrency is assumed, and in particular familiarity with the Ethereum ecosystem.
