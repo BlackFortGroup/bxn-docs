@@ -5,9 +5,25 @@
 
 BXN is an EVM (Ethereum Virtual Machine)-based PoSA (Proof of Staked Authority) blockchain that incorporates its economy logic and functionality through a comprehensive set of smart contracts, akin to the Binance Smart Chain (BSC) architecture. It offers compatibility with the Ethereum ecosystem, allowing developers and users to interact with its network using the standard Ethereum API via RPC (Remote Procedure Call) endpoints. The network supports the deployment and operation of decentralized applications (DApps) and smart contracts, leveraging Vanilla Geth clients for node operation.
 
-### CertiK Audit
+### Important Links
 
-CertiK audit available on dedicated webpage: https://skynet.certik.com/projects/blackfort-exchange-network
+- [CertiK Audit](https://skynet.certik.com/projects/blackfort-exchange-network)
+- [Whitepaper](https://storage.googleapis.com/skydelis-static/whitepaper.pdf)
+- [Wallet Yellowpaper](https://storage.googleapis.com/skydelis-static/blackfort_yellowpaper.pdf)
+
+#### Social Media
+
+- [TikTok](https://www.tiktok.com/@blackfortofficial)
+- [YouTube](https://www.youtube.com/@BlackFortOfficial)
+- [Twitter/X](https://twitter.com/blackfortbxn)
+- [Instagram](https://www.instagram.com/blackfortbxn/)
+- [Medium](https://blackfortwallet.medium.com/)
+- [Telegram (English)](https://t.me/BlackFortExchangeNetwork)
+- [Telegram (German)](https://t.me/BlackfortCommunityDE)
+
+#### Wallet App
+- [AppStore](https://apps.apple.com/at/app/blackfort-wallet/id6447954137?l=en)
+- [Google Play](https://play.google.com/store/apps/details?id=exchange.blackfort.blackfortwallet)
 
 ## Getting Started
 
