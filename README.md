@@ -35,11 +35,6 @@ On the BXN, users can:
 - Issue Non-Fungible Tokens (NFTs).
 - Extensive support of Cross-Chain Bridges for cross-chain transfers of tokens (FUTURE).
 
-### Blockchain Explorers
-
-Mainnet - https://explorer.blackfort.network/
-Testnet - https://testnet-explorer.blackfort.network/
-
 ### Wallets Support
 
 - Metamask (add network manually)
